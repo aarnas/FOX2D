@@ -1,5 +1,5 @@
 # FOX2D 
-Instruction: 
+Instruction: <br>
 Move Up: W
 Move Left: A
 Move Right: D
