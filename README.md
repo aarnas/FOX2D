@@ -1,6 +1,6 @@
 # FOX2D 
 Instruction: <br>
-Move Up: W
-Move Left: A
-Move Right: D
+Move Up: W <br>
+Move Left: A <br>
+Move Right: D <br>
 Restart: R
